@@ -1,3 +1,5 @@
+# xadrez
+
 O xadrez é um jogo que combina habilidade, estratégia e paciência. Com a prática, os jogadores podem melhorar suas habilidades e desenvolver um estilo de jogo único. É um jogo que pode ser jogado por pessoas de todas as idades e é uma excelente maneira de exercitar a mente.
 
 Rei: Move-se uma casa em qualquer direção.
